@@ -1,6 +1,8 @@
 yggdrasil
 ===========
 
+[![Join the chat at https://gitter.im/tottaz/yggdrasil](https://badges.gitter.im/tottaz/yggdrasil.svg)](https://gitter.im/tottaz/yggdrasil?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Yggdrasil php framework for non-public applications
 
 Yggdrasil is a web application framework based on the CodeIgniter 3.0 php framework - Yggdrasil makes it easy to build web applications. We have not reinvented the wheel we have created Yggdrasil from available open-source libraries such as <a href="http://www.codeigniter.com/" rel="external">CodeIgniter</a><span style="font-size: 14px; line-height: 1.5;">,&nbsp;</span><a href="https://github.com/philsturgeon/codeigniter-restserver" rel="external" style="font-size: 14px; line-height: 1.5;">CodeIgniter Rest Server</a><span style="font-size: 14px; line-height: 1.5;">,&nbsp;</span><a href="https://github.com/benedmunds/CodeIgniter-Ion-Auth" rel="external">CodeIgniter-Ion-Auth</a><span style="font-size: 14px; line-height: 1.5;">,&nbsp;</span><a href="https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc" rel="external" style="font-size: 14px; line-height: 1.5;">HMVC Modular Extensions</a><span style="font-size: 14px; line-height: 1.5;">,&nbsp;</span></div>
